@@ -108,7 +108,7 @@ The dashboard showcases:
 3. Use the filters to explore data insights interactively.
 4. Connect your own dataset by modifying the data source.
 
-📁 **Download dataset**: [Click here](./data/amazon_prime_sales.csv)
+📁 **Download dataset**: [Click here](https://github.com/harshitha-tankasala/amazon-prime-sales-analysis-powerbi/blob/main/Amazon%20Prime%20Movies.xlsx)
 
 ---
 
