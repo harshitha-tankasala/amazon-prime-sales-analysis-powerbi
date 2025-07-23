@@ -26,7 +26,7 @@ This project provides insights into Amazon Prime movie sales and reviews using i
 ---
 
 ## 📊 Dashboard Overview
-![Dashboard Screenshot](./Screenshot%202025-07-23%20053253.png)
+![Dashboard Screenshot](https://github.com/harshitha-tankasala/amazon-prime-sales-analysis-powerbi/blob/main/amazon_prime_sales_dashboard.png)
 
 The dashboard showcases:
 - Total sales across all movie formats.
